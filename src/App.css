@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+td {
+  padding-right: 30px;
+}
+
+.Bold {
+  font-weight: 700;
+}
